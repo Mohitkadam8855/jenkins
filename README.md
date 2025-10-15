@@ -1,1 +1,1 @@
-# jinkins
+# jenkins
